@@ -1,0 +1,92 @@
+body {
+    display: flex;
+}
+
+.Red {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.Blue {
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+
+.Green {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.sq1 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq2 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq3 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq4 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq5 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq6 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq7 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq8 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq9 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+.sq10 {
+    height: 125px;
+    width: 125px;
+    background-color: gray;
+}
+
+#start {
+    background: coral;
+    color: white;
+    border: none;
+    position: fixed;
+    padding: 15px;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+}
